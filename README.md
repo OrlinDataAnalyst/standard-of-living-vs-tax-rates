@@ -35,7 +35,7 @@ Each visualization answers a core analytical question and is optimized for stake
 
 3. Stakeholders presentation (PDF)
 
-### Key Insights You Can Explore
+## Key Insights You Can Explore
 1. Do higher taxes destroy living standards? (Spoiler: not always!)
 2. Nordic model vs Eastern Europe: who wins after adjusting for cost of living?
 3. Which country gives you the most "bang for your tax euro"?
@@ -74,7 +74,7 @@ TaxLifeIndex/
 └── Main Analysis View
 └── v_Europe_Economic_Dashboard  ← Main dashboard!
 
-### Main Output Columns (v_Europe_Economic_Dashboard)
+## Main Output Columns (v_Europe_Economic_Dashboard)
 
 | Column                        | Meaning |
 |-------------------------------|-------|
